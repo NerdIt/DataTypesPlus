@@ -17,6 +17,6 @@
  
  Just thought this might be helpful to someone.
  
- Each Vector includes it's own respective point locations (x,y,z,w).
+ Each Vector includes its own respective point locations (x,y,z,w).
  The methods are what you would expect (addition, subtraction, multiplication, division, and averages)
   
